@@ -2,20 +2,19 @@
 
 We've collated a list of all the user groups in Australia that might be of interest to Microsoft professionals and end users across the entire suite of products and services.
 
-
 ### FAQ
 
-Got a question? [The FAQ](https://github.com/loryanstrant/anzusergroups/edit/master/FAQ.md) probably has the answer you need.
+Got a question? [The FAQ](FAQ.md) probably has the answer you need.
 
 ### Can I contribute, or add an event?
 
-Of course! We'd love you to! See the [contribution guide](https://github.com/loryanstrant/anzusergroups/edit/master/contributing.md) for how.
+Of course! We'd love you to! See the [contribution guide](contributing.md) for how.
 
 # User Groups
 
-
 | Group Name & Site | Country & State | Frequency | Location |
 | ----------------- | --------------- | --------- | -------- |
+| [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
 | [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/) | AU/VIC | Every 2 months | "here and there" |
 | [Melbourne Office 365 User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
