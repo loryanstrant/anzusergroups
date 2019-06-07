@@ -1,20 +1,18 @@
-# Australian Dev Events
+# Australia & New Zealand Microsoft-related User Groups
 
-We've collated a list of all the events in Australia that might be of interest to software developers. Technical content, leadership, software design, agility, and more.
+We've collated a list of all the user groups in Australia that might be of interest to Microsoft professionals and end users across the entire suite of products and services.
 
-In addition [this page](https://github.com/Readify/DevEvents/blob/master/otherDevConfLists.md) links to other development conference lists we are aware of.
 
 ### FAQ
 
-Got a question? [The FAQ](https://github.com/Readify/DevEvents/blob/master/FAQ.md) probably has the answer you need.
+Got a question? [The FAQ](https://github.com/loryanstrant/anzusergroups/edit/master/FAQ.md) probably has the answer you need.
 
 ### Can I contribute, or add an event?
 
-Of course! We'd love you to! See the [contribution guide](https://github.com/Readify/DevEvents/blob/master/contributing.md) for how.
+Of course! We'd love you to! See the [contribution guide](https://github.com/loryanstrant/anzusergroups/edit/master/contributing.md) for how.
 
-# Upcoming Events
+# User Groups
 
-## 2019
 
 | Event Name | State | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | ----- | --------- | ------- | -------- | --------- | ---- |
