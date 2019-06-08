@@ -23,3 +23,6 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melboune Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
 | [SQL Social Melbourne](https://www.meetup.com/SQL-Social-Melbourne) | AU/VIC | Monthly | The Royal Melbourne Hotel (629 Bourke St, Melbourne) |
 | [Melboune Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
+| [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Monthly | Microsoft |
+| [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
+| [Sydney Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption/) | AU/NSW | 1st Tuesday of every month | Microsoft Reactor |
