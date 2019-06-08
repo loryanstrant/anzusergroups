@@ -5,11 +5,11 @@ We've collated a list of all the user groups in Australia that might be of inter
 
 ### FAQ
 
-Got a question? [The FAQ](https://github.com/loryanstrant/anzusergroups/FAQ.md) probably has the answer you need.
+Got a question? [The FAQ](https://github.com/loryanstrant/anzusergroups/blob/master/FAQ.md) probably has the answer you need.
 
 ### Can I contribute, or add an event?
 
-Of course! We'd love you to! See the [contribution guide](https://github.com/loryanstrant/anzusergroups/contributing.md) for how.
+Of course! We'd love you to! See the [contribution guide](https://github.com/loryanstrant/anzusergroups/blob/master/contributing.md) for how.
 
 # User Groups
 
