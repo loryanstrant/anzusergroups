@@ -26,3 +26,5 @@ Of course! We'd love you to! See the [contribution guide](https://github.com/lor
 | [Melboune Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
+| [Brisbane Azure User Group](https://www.meetup.com/Brisbane-Azure-User-Group/) | AU/QLD | 2nd Wednesday of every month | Microsoft |
+
