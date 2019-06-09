@@ -15,6 +15,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | Group Name & Site | Country & State | Frequency | Location |
 | ----------------- | --------------- | --------- | -------- |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
+| [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
 | [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/) | AU/VIC | Every 2 months | "here and there" |
 | [Melbourne Office 365 User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
