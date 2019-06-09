@@ -22,6 +22,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Office 365 Business User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Business-User-Group/) | AU/VIC |  | Microsoft |
 | [Melbourne SQL Server User Group](https://melbourne.pass.org/) | AU/VIC | 3rd Tuesday of every month | Microsoft |
 | [Melbourne Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
+| [Melbourne UC](https://www.meetup.com/melbourne-uc/) - Melbourne Skype and Teams User Group | AU/VIC |  |  |
 | [SQL Social Melbourne](https://www.meetup.com/SQL-Social-Melbourne) | AU/VIC | Monthly | The Royal Melbourne Hotel (629 Bourke St, Melbourne) |
 | [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
