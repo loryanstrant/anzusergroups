@@ -18,6 +18,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Sydney UC](https://www.meetup.com/sydney-uc/) - Microsoft Teams & Skype for Business | AU/NSW | Last Weds of Feb, May, Aug & Nov | Sydney CBD |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
+| [Brisbane PowerShell User Group](https://join.slack.com/t/brispug/shared_invite/enQtNTIyNTEwOTg1MTM4LTI0NjJhYjkyNTk1MGZkYjkyM2M2MjYzMzUxMzU3ZjY0ZmYwMTNmMWJmZDgzMmZhOWYwYTkxNjY4ZDFiYmRiYWY) | AU/QLD | Monthly | Hudson Technology |
 | [Brisbane Azure User Group](https://www.meetup.com/Brisbane-Azure-User-Group/) | AU/QLD | 2nd Wednesday of every month | Microsoft |
 | [Brisbane Teams & Skype User Group](https://www.meetup.com/Brisbane-SkypeTeamsUserGroup/) | AU/QLD | intermittent | Microsoft |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
