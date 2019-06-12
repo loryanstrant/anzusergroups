@@ -19,6 +19,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane Azure User Group](https://www.meetup.com/Brisbane-Azure-User-Group/) | AU/QLD | 2nd Wednesday of every month | Microsoft |
+| [Brisbane Teams & Skype User Group](https://www.meetup.com/Brisbane-SkypeTeamsUserGroup/) | AU/QLD | intermittent | Microsoft |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
 | [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
 | [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/) | AU/VIC | Every 2 months | "here and there" |
