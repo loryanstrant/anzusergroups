@@ -30,4 +30,4 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne SQL Server User Group](https://melbourne.pass.org/) | AU/VIC | 3rd Tuesday of every month | Microsoft |
 | [Melbourne Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
 | [SQL Social Melbourne](https://www.meetup.com/SQL-Social-Melbourne) | AU/VIC | Monthly | The Royal Melbourne Hotel (629 Bourke St, Melbourne) |
-| [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
+| [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | [Auckland Azure User Group](https://www.meetup.com/Auckland-Azure-Usergroup/) | NZ | 3rd Wednesday of every month | Microsoft |
