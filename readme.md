@@ -16,6 +16,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | ----------------- | --------------- | --------- | -------- |
 | [Sydney Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption/) | AU/NSW | 1st Tuesday of every month | Microsoft Reactor |
 | [Sydney UC](https://www.meetup.com/sydney-uc/) - Microsoft Teams & Skype for Business | AU/NSW | Last Weds of Feb, May, Aug & Nov | Sydney CBD |
+| [Sydney Office 365 Meetup](https://www.meetup.com/en-AU/Sydney-Office-365-Meetup/) | AU/NSW | Monthly (varying dates) | Microsoft Reactor |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane PowerShell User Group](https://join.slack.com/t/brispug/shared_invite/enQtNTIyNTEwOTg1MTM4LTI0NjJhYjkyNTk1MGZkYjkyM2M2MjYzMzUxMzU3ZjY0ZmYwMTNmMWJmZDgzMmZhOWYwYTkxNjY4ZDFiYmRiYWY) | AU/QLD | Monthly | Hudson Technology |
