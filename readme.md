@@ -36,3 +36,8 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
 | [Perth Azure User Group](https://www.meetup.com/en-AU/perthazug/) | AU/WA | 2nd Tuesday for IT Pro, 3rd Wednesday for Dev | Microsoft |
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
+| [Sydney .NET User Group](https://www.meetup.com/Sydney-NET-User-Group/) | AU/NSW | 3rd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/sydney/) |
+| [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) | AU/VIC | 2nd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/melbourne/) |
+| [Canberra .NET User Group](https://www.meetup.com/Canberra-NET-User-Group/) | AU/ACT | 3dr Monday of every month | Microsoft Canberra |
+| [Brisbane Full Stack User Group - Angular + React + .NET Core](https://www.meetup.com/Brisbane-Full-Stack-User-Group/) | AU/QLD | 2nd Tuesday of every month | [SSW Chapel](https://sswchapel.com.au/brisbane/) |
+| [Gold Coast Full Stack User Group - Azure + .NET + More](https://www.meetup.com/Gold-Coast-Azure-NET-User-Group/) | AU/QLD | 1st Monday of every month | SSW Gold Coast / etz Technologies |
