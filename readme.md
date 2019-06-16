@@ -38,3 +38,6 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
 | [Integration Down Under Webcast](https://www.integrationdownunder.com/) | AU | 2nd Thursday of Each Month | online |
 | [VIC.NET Meetup](https://www.meetup.com/en-AU/VIC-NET-Meetup/) | AU/VIC | Monthly | Microsoft |
+|
+| [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
+| [Christchurch SQL and Data Management User Group] (https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
