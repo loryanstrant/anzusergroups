@@ -38,3 +38,4 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
 | [Integration Down Under Webcast](https://www.integrationdownunder.com/) | AU | 2nd Thursday of Each Month | online |
 | [VIC.NET Meetup](https://www.meetup.com/en-AU/VIC-NET-Meetup/) | AU/VIC | Monthly | Microsoft |
+| [ANZ PowerShell and DevOps User Group](https://www.meetup.com/en-AU/ANZ-PowerShell-UserGroup/) | AU/NSW/Online | Intermittent | Microsoft Reactor/Online |
