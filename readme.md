@@ -2,6 +2,8 @@
 
 We've collated a list of all the user groups in Australia that might be of interest to Microsoft professionals and end users across the entire suite of products and services.
 
+The shortcut to this repo is [aka.ms/anzusergroups](https://aka.ms/anzusergroups).
+
 ### FAQ
 
 Got a question? [The FAQ](FAQ.md) probably has the answer you need.
