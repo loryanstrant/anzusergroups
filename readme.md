@@ -2,6 +2,8 @@
 
 We've collated a list of all the user groups in Australia that might be of interest to Microsoft professionals and end users across the entire suite of products and services.
 
+The shortcut to this repo is [aka.ms/anzusergroups](https://aka.ms/anzusergroups).
+
 ### FAQ
 
 Got a question? [The FAQ](FAQ.md) probably has the answer you need.
@@ -30,6 +32,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Office 365 User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
 | [Office 365 Business User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Business-User-Group/) | AU/VIC |  | Microsoft |
+| [Melbourne Azure Nights](https://www.meetup.com/Melbourne-Azure-Nights/) | AU/VIC | 3rd Wed of every month | Microsoft |
 | [Melbourne SQL Server User Group](https://melbourne.pass.org/) | AU/VIC | 3rd Tuesday of every month | Microsoft |
 | [Melbourne Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
 | [SQL Social Melbourne](https://www.meetup.com/SQL-Social-Melbourne) | AU/VIC | Monthly | The Royal Melbourne Hotel (629 Bourke St, Melbourne) |
@@ -41,3 +44,8 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Canberra .NET User Group](https://www.meetup.com/Canberra-NET-User-Group/) | AU/ACT | 3dr Monday of every month | Microsoft Canberra |
 | [Brisbane Full Stack User Group - Angular + React + .NET Core](https://www.meetup.com/Brisbane-Full-Stack-User-Group/) | AU/QLD | 2nd Tuesday of every month | [SSW Chapel](https://sswchapel.com.au/brisbane/) |
 | [Gold Coast Full Stack User Group - Azure + .NET + More](https://www.meetup.com/Gold-Coast-Azure-NET-User-Group/) | AU/QLD | 1st Monday of every month | SSW Gold Coast / etz Technologies |
+| [Integration Down Under Webcast](https://www.integrationdownunder.com/) | AU | 2nd Thursday of Each Month | online |
+| [VIC.NET Meetup](https://www.meetup.com/en-AU/VIC-NET-Meetup/) | AU/VIC | Monthly | Microsoft |
+| [Melbourne Umbraco Meetup](https://www.meetup.com/Australian-Umbraco-Meetups/) | AU/VIC | Bi-Monthly | Luminary offices |
+| [Sydney Umbraco Meetup](https://www.meetup.com/Sydney-Umbraco-Meetup/) | AU/NSW | Bi-Monthly | Microsoft Reactor |
+| [Brisbane Umbraco Unicorns Group](https://www.meetup.com/BUUG-Brisbane-Umbraco-Unicorns-Group/) | AU/QLD | ad-hoc | ZeroSeven Offices |
