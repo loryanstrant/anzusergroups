@@ -17,6 +17,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 
 | Group Name & Site | Country & State | Frequency | Location |
 | ----------------- | --------------- | --------- | -------- |
+| [Australia and New Zealand PowerShell User Group](https://anzpsug.github.io) | Online, AU/NSW & NZ/HB | Monthly | Online (Teams) / Microsoft Reactor / The Instillery South |
 | [Integration Down Under Webcast](https://www.integrationdownunder.com/) | AU | 2nd Thursday of Each Month | online |
 | [Canberra .NET User Group](https://www.meetup.com/Canberra-NET-User-Group/) | AU/ACT | 3dr Monday of every month | Microsoft Canberra |
 | [Sydney Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption/) | AU/NSW | 1st Tuesday of every month | Microsoft Reactor |
@@ -57,4 +58,3 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland Connected Systems User Group](https://www.meetup.com/Auckland-Connected-Systems-User-Group/) | NZ/AKL | Bi-monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group] (https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
-
