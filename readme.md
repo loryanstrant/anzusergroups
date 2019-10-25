@@ -40,7 +40,6 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Office 365 User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
 | [Office 365 Business User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Business-User-Group/) | AU/VIC |  | Microsoft |
-| [Melbourne Azure Nights](https://www.meetup.com/Melbourne-Azure-Nights/) | AU/VIC | 3rd Wed of every month | Microsoft |
 | [Melbourne SQL Server User Group](https://melbourne.pass.org/) | AU/VIC | 3rd Tuesday of every month | Microsoft |
 | [Melbourne Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
 | [VIC.NET Meetup](https://www.meetup.com/en-AU/VIC-NET-Meetup/) | AU/VIC | Monthly | Microsoft |
