@@ -40,9 +40,9 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
 | [VIC.NET Meetup](https://www.meetup.com/en-AU/VIC-NET-Meetup/) | AU/VIC | Monthly | Microsoft |
 | [SQL Social Melbourne](https://www.meetup.com/SQL-Social-Melbourne) | AU/VIC | Monthly | The Royal Melbourne Hotel (629 Bourke St, Melbourne) |
-| [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
 | [Melbourne Umbraco Meetup](https://www.meetup.com/Australian-Umbraco-Meetups/) | AU/VIC | Bi-Monthly | Luminary offices |
+| [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
 | [Perth Azure User Group](https://www.meetup.com/en-AU/perthazug/) | AU/WA | 2nd Tuesday for IT Pro, 3rd Wednesday for Dev | Microsoft |
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
+| [Auckland Azure User Group](https://www.meetup.com/Auckland-Azure-Usergroup/) | NZ/AKL | 3rd Wednesday of every month | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Connected Systems User Group](https://www.meetup.com/Auckland-Connected-Systems-User-Group/) | NZ/AKL | Bi-monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
-
