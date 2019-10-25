@@ -1,3 +1,4 @@
+
 # Australia & New Zealand Microsoft-related User Groups
 
 We've collated a list of all the user groups in Australia that might be of interest to Microsoft professionals and end users across the entire suite of products and services.
@@ -44,3 +45,4 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Umbraco Meetup](https://www.meetup.com/Australian-Umbraco-Meetups/) | AU/VIC | Bi-Monthly | Luminary offices |
 | [Sydney Umbraco Meetup](https://www.meetup.com/Sydney-Umbraco-Meetup/) | AU/NSW | Bi-Monthly | Microsoft Reactor |
 | [Brisbane Umbraco Unicorns Group](https://www.meetup.com/BUUG-Brisbane-Umbraco-Unicorns-Group/) | AU/QLD | ad-hoc | ZeroSeven Offices |
+[Azure Sydney User Group](https://www.meetup.com/Azure-Sydney-User-Group/) | NSW | 1st Wednesday of every month | Microsoft Reactor |
