@@ -36,6 +36,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Gold Coast Full Stack User Group - Azure + .NET + More](https://www.meetup.com/Gold-Coast-Azure-NET-User-Group/) | AU/QLD | 1st Monday of every month | SSW Gold Coast / etz Technologies |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
 | [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
+| [Adelaide Microsoft IT Pro Community](https://www.meetup.com/Adelaide-Microsoft-ITPro-Community/) | AU/SA | Monthly | Microsoft |
 | [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/) | AU/VIC | Every 2 months | "here and there" |
 | [Melbourne Microsoft 365 User Group](https://www.meetup.com/en-AU/Melbourne-Office-365-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
