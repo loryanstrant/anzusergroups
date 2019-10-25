@@ -1,3 +1,4 @@
+
 # Australia & New Zealand Microsoft-related User Groups
 
 We've collated a list of all the user groups in Australia that might be of interest to Microsoft professionals and end users across the entire suite of products and services.
@@ -26,6 +27,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Sydney Umbraco Meetup](https://www.meetup.com/Sydney-Umbraco-Meetup/) | AU/NSW | Bi-Monthly | Microsoft Reactor |
 | [Sydney .NET User Group](https://www.meetup.com/Sydney-NET-User-Group/) | AU/NSW | 3rd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/sydney/) |
 | [ANZ PowerShell and DevOps User Group](https://www.meetup.com/en-AU/ANZ-PowerShell-UserGroup/) | AU/NSW/Online | Intermittent | Microsoft Reactor/Online |
+| [Azure Sydney User Group](https://www.meetup.com/Azure-Sydney-User-Group/) | NSW | 1st Wednesday of every month | Microsoft Reactor |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane PowerShell User Group](https://join.slack.com/t/brispug/shared_invite/enQtNTIyNTEwOTg1MTM4LTI0NjJhYjkyNTk1MGZkYjkyM2M2MjYzMzUxMzU3ZjY0ZmYwMTNmMWJmZDgzMmZhOWYwYTkxNjY4ZDFiYmRiYWY) | AU/QLD | Monthly | Hudson Technology |
@@ -55,3 +57,4 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland Connected Systems User Group](https://www.meetup.com/Auckland-Connected-Systems-User-Group/) | NZ/AKL | Bi-monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group] (https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
+
