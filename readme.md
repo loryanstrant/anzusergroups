@@ -44,3 +44,4 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Umbraco Meetup](https://www.meetup.com/Australian-Umbraco-Meetups/) | AU/VIC | Bi-Monthly | Luminary offices |
 | [Sydney Umbraco Meetup](https://www.meetup.com/Sydney-Umbraco-Meetup/) | AU/NSW | Bi-Monthly | Microsoft Reactor |
 | [Brisbane Umbraco Unicorns Group](https://www.meetup.com/BUUG-Brisbane-Umbraco-Unicorns-Group/) | AU/QLD | ad-hoc | ZeroSeven Offices |
+| [Australia and New Zealand PowerShell User Group](https://anzpsug.github.io) | Online, AU/NSW & NZ/HB | Monthly | Online (Teams) / Microsoft Reactor / The Instillery South |
