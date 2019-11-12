@@ -24,6 +24,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Sydney UC - Microsoft Teams & Skype for Business](https://www.meetup.com/sydney-uc/) | AU/NSW | Last Weds of Feb, May, Aug & Nov | Sydney CBD |
 | [Sydney SharePoint User Group](https://www.meetup.com/en-AU/Sydney-SharePoint-User-Group/) | AU/NSW | 3rd Tuesday of every month | Microsoft Reactor |
 | [Sydney PowerApps and Flow User Group](https://www.meetup.com/en-AU/Sydney-PowerApps-Flow-UserGroup/) | AU/NSW | Monthly | Microsoft Reactor |
+| [Sydney Microsoft 365 Modern Management Meetup](https://www.meetup.com/Sydney-CBD-Microsoft-Modern-Management-Meetup/) | AU/NSW | Monthly | Microsoft Reactor |
 | [Sydney Office 365 Meetup](https://www.meetup.com/en-AU/Sydney-Office-365-Meetup/) | AU/NSW | Monthly | Microsoft Reactor |
 | [Sydney Umbraco Meetup](https://www.meetup.com/Sydney-Umbraco-Meetup/) | AU/NSW | Bi-Monthly | Microsoft Reactor |
 | [Sydney .NET User Group](https://www.meetup.com/Sydney-NET-User-Group/) | AU/NSW | 3rd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/sydney/) |
