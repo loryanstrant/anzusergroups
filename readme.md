@@ -29,7 +29,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Sydney Umbraco Meetup](https://www.meetup.com/Sydney-Umbraco-Meetup/) | AU/NSW | Bi-Monthly | Microsoft Reactor |
 | [Sydney .NET User Group](https://www.meetup.com/Sydney-NET-User-Group/) | AU/NSW | 3rd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/sydney/) |
 | [ANZ PowerShell and DevOps User Group](https://www.meetup.com/en-AU/ANZ-PowerShell-UserGroup/) | AU/NSW/Online | Intermittent | Microsoft Reactor/Online |
-| [Azure Sydney User Group](https://www.meetup.com/Azure-Sydney-User-Group/) | NSW | 1st Wednesday of every month | Microsoft Reactor |
+| [Azure Sydney User Group](https://www.meetup.com/Azure-Sydney-User-Group/) | AU/NSW | 1st Wednesday of every month | Microsoft Reactor |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane PowerShell User Group](https://www.meetup.com/Brisbane-PowerShell-User-Group/) | AU/QLD | Monthly | Hudson Technology |
