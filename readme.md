@@ -19,7 +19,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | ----------------- | --------------- | --------- | -------- |
 | [Australia and New Zealand PowerShell User Group](https://anzpsug.github.io) | Online, AU/NSW & NZ/HB | Monthly | Online (Teams) / Microsoft Reactor / The Instillery South |
 | [Integration Down Under Webcast](https://www.integrationdownunder.com/) | AU | 2nd Thursday of Each Month | online |
-| [Canberra .NET User Group](https://www.meetup.com/Canberra-NET-User-Group/) | AU/ACT | 3dr Monday of every month | Microsoft Canberra |
+| [Canberra .NET User Group](https://www.meetup.com/Canberra-NET-User-Group/) | AU/ACT | 3rd Monday of every month | Microsoft Canberra |
 | [Sydney Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption/) | AU/NSW | 1st Tuesday of every month | Microsoft Reactor |
 | [Sydney UC - Microsoft Teams & Skype for Business](https://www.meetup.com/sydney-uc/) | AU/NSW | Last Weds of Feb, May, Aug & Nov | Sydney CBD |
 | [Sydney SharePoint User Group](https://www.meetup.com/en-AU/Sydney-SharePoint-User-Group/) | AU/NSW | 3rd Tuesday of every month | Microsoft Reactor |
