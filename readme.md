@@ -60,5 +60,6 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland Microsoft 365 User Group](https://www.meetup.com/Auckland-Microsoft-365-User-Group/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland .NET User Group](https://www.meetup.com/AKL-NET/) | NZ/AKL | Intermittent | Various | 
 | [Auckland North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | NZ/AKL | 4th Thursday of every month | Massey University, Albany |
+| [Wellington .NET User Group](https://www.meetup.com/WelliDotNet/) | NZ/WLG | Monthly | Xero House (19-23 Taranaki Street, Wellington) |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
