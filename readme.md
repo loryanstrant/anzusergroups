@@ -62,3 +62,6 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | NZ/AKL | 4th Thursday of every month | Massey University, Albany |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
+Brisbane Dynamics 365 User Group (https://www.meetup.com/bned365ug) | Brisbane | Monthly | CBD/Online
+Brisbane Power Apps & Power Automate User Group (https://www.meetup.com/Brisbane-PowerApps-Flow-User-Group) | Brisbane | Monthly | CBD/Online
+Gold Coast Dynamics 365 & Power Platform User Group (https://www.meetup.com/Gold-Coast-Power-Platform-User-Group) | Gold Coast | Monthly | Arundale/Online
