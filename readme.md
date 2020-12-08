@@ -62,3 +62,4 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | NZ/AKL | 4th Thursday of every month | Massey University, Albany |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
+| [Perth Modern Excel and Power BI Meetup ](https://www.meetup.com/en-AU/Perth-Modern-Excel-Power-BI-User-Group/) | AU/WA | Monthly | Virtual |
