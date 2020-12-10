@@ -58,8 +58,13 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland Azure User Group](https://www.meetup.com/Auckland-Azure-Usergroup/) | NZ/AKL | 3rd Wednesday of every month | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Connected Systems User Group](https://www.meetup.com/Auckland-Connected-Systems-User-Group/) | NZ/AKL | Bi-monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Microsoft 365 User Group](https://www.meetup.com/Auckland-Microsoft-365-User-Group/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
-| [Auckland .NET User Group](https://www.meetup.com/AKL-NET/) | NZ/AKL | Intermittent | Various | 
+| [Auckland .NET User Group](https://www.meetup.com/AKL-NET/) | NZ/AKL | Intermittent | Various |
 | [Auckland North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | NZ/AKL | 4th Thursday of every month | Massey University, Albany |
-| [Wellington .NET User Group](https://www.meetup.com/WelliDotNet/) | NZ/WLG | Monthly | Xero House (19-23 Taranaki Street, Wellington) |
+| [Wellington .NET User Group](https://www.meetup.com/WelliDotNet/) | NZ/WLG | Bi-Monthly | Xero House (19-23 Taranaki Street, Wellington) |
+| [Wellington Azure Meetup](https://www.meetup.com/Wellington-Azure-Meetup/) | NZ/WLG | Bi-Monthly | Microsoft House (157 Lambton Quay · Wellington) |
+| [Wellington M365 Meetup](https://www.meetup.com/Wellington-M365-Meetup/) | NZ/WLG | Monthly | Various |
+| [Wellington Azure AI User Group](https://www.meetup.com/Wellington-Azure-AI/) | NZ/WLG | Bi-Monthly | Various |
+| [Wellington PowerShell User Group](https://www.meetup.com/Wellington-PowerShell-User-Group/) | NZ/WLG | Bi-Monthly | Various |
+| [Wellington Data Management and Analytics Meetup](https://www.meetup.com/Wellington-Data-Management-and-Analytics-Meetup/) | NZ/WLG | Bi-Monthly | Various |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
