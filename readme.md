@@ -50,6 +50,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
 | [Melbourne SQL Server User Group](https://melbourne.pass.org/) | AU/VIC | 3rd Tuesday of every month | Microsoft |
 | [Melbourne Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
+| [Melbourne Power Platform User Group](https://www.meetup.com/en-AU/Microsoft-Power-Apps-and-Flow-Melbourne/) | AU/VIC | Monthly | MODEX 607 Bourke St Melbourne |
 | [SQL Social Melbourne](https://www.meetup.com/SQL-Social-Melbourne) | AU/VIC | 1st Wednesday of every month | The Royal Melbourne Hotel (629 Bourke St, Melbourne) |
 | [VIC.NET Meetup](https://www.meetup.com/en-AU/VIC-NET-Meetup/) | AU/VIC | Monthly | Microsoft |
 | [Melbourne Umbraco Meetup](https://www.meetup.com/Australian-Umbraco-Meetups/) | AU/VIC | Bi-Monthly | Luminary offices |
