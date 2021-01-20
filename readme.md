@@ -51,6 +51,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Melbourne Umbraco Meetup](https://www.meetup.com/Australian-Umbraco-Meetups/) | AU/VIC | Bi-Monthly | Luminary offices |
 | [Melbourne Dynamics 365 User Group](https://www.d365ug.com/communities/community-home?CommunityKey=6beb5933-0b8f-4ebe-b3d9-132a87182f92) | AU/VIC | Monthly | Microsoft |
 | [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/) | AU/VIC | 2nd Wednesday of every month | [SSW Chapel](https://sswchapel.com.au/melbourne/) |
+| [Melbourne Blazor and Xamarin User Group](https://www.meetup.com/Melbourne-Xamarin-Meetup) | AU/VIC | 3rd Wednesday of every month | Microsoft/Online |
 | [Perth Azure User Group](https://www.meetup.com/en-AU/perthazug/) | AU/WA | 2nd Tuesday for IT Pro, 3rd Wednesday for Dev | Microsoft |
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
 | [Perth Microsoft Data and Analytics User Group](https://www.meetup.com/en-AU/Perth-Microsoft-Data-And-Analytics-User-Group/) | AU/WA | Intermittent | Microsoft |
