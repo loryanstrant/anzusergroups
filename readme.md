@@ -32,7 +32,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Azure Sydney User Group](https://www.meetup.com/Azure-Sydney-User-Group/) | AU/NSW | 1st Wednesday of every month | Microsoft Reactor |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
-| [Brisbane PowerShell User Group](https://www.meetup.com/Brisbane-PowerShell-User-Group/) | AU/QLD | Monthly | Hudson Technology |
+| [Brisbane Infrastructure DevOps User Group](https://www.meetup.com/Brisbane-PowerShell-User-Group/) | AU/QLD | Monthly | Hudson Technology/Online |
 | [Brisbane Azure User Group](https://www.meetup.com/Brisbane-Azure-User-Group/) | AU/QLD | 2nd Wednesday of every month | Microsoft |
 | [Brisbane Umbraco Unicorns Group](https://www.meetup.com/BUUG-Brisbane-Umbraco-Unicorns-Group/) | AU/QLD | ad-hoc | ZeroSeven Offices |
 | [Brisbane Teams & Skype User Group](https://www.meetup.com/Brisbane-SkypeTeamsUserGroup/) | AU/QLD | intermittent | Microsoft |
