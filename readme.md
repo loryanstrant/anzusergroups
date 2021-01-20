@@ -38,6 +38,10 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Brisbane Teams & Skype User Group](https://www.meetup.com/Brisbane-SkypeTeamsUserGroup/) | AU/QLD | intermittent | Microsoft |
 | [Brisbane Full Stack User Group - Angular + React + .NET Core](https://www.meetup.com/Brisbane-Full-Stack-User-Group/) | AU/QLD | 2nd Tuesday of every month | [SSW Chapel](https://sswchapel.com.au/brisbane/) |
 | [Gold Coast Full Stack User Group - Azure + .NET + More](https://www.meetup.com/Gold-Coast-Azure-NET-User-Group/) | AU/QLD | 1st Monday of every month | SSW Gold Coast / etz Technologies |
+| [QLD Power BI User Group](https://www.meetup.com/Queensland-Power-BI-User-Group/) | AU/QLD | Monthly | Microsoft |
+| [Brisbane Dynamics 365 User Group](https://www.meetup.com/bned365ug) | AU/QLD | Monthly | CBD/Online |
+| [Brisbane Power Apps & Power Automate User Group](https://www.meetup.com/Brisbane-PowerApps-Flow-User-Group) | AU/QLD | Monthly | CBD/Online |
+| [Gold Coast Dynamics 365 & Power Platform User Group](https://www.meetup.com/Gold-Coast-Power-Platform-User-Group) | AU/QLD | Monthly | Arundale/Online |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
 | [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
 | [Adelaide Microsoft IT Pro Community](https://www.meetup.com/Adelaide-Microsoft-ITPro-Community/) | AU/SA | Monthly | Microsoft |
@@ -63,6 +67,3 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Auckland North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | NZ/AKL | 4th Thursday of every month | Massey University, Albany |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
-| [Brisbane Dynamics 365 User Group](https://www.meetup.com/bned365ug) | Brisbane | Monthly | CBD/Online |
-| [Brisbane Power Apps & Power Automate User Group](https://www.meetup.com/Brisbane-PowerApps-Flow-User-Group) | Brisbane | Monthly | CBD/Online |
-| [Gold Coast Dynamics 365 & Power Platform User Group](https://www.meetup.com/Gold-Coast-Power-Platform-User-Group) | Gold Coast | Monthly | Arundale/Online |
