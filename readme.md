@@ -75,3 +75,5 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Wellington Data Management and Analytics Meetup](https://www.meetup.com/Wellington-Data-Management-and-Analytics-Meetup/) | NZ/WLG | Bi-Monthly | Various |
 | [Christchurch Office 365 User Group](https://www.meetup.com/CHCO365/) | NZ/CHC | Monthly |Ngai Tahu |
 | [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
+| [Wellington Dynamics & Power Platform User Group](https://www.meetup.com/Wellington-Power-Platform-User-Group) | NZ/WLG | Monthly | Microsoft |
+| [Christchurch SQL and Data Management User Group](https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand) | NZ/CHC | Monthly | Ara Campus |
