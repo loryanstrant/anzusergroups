@@ -79,4 +79,5 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Wellington Azure AI User Group](https://www.meetup.com/Wellington-Azure-AI/) | NZ/WLG | Bi-Monthly | Various |
 | [Wellington PowerShell User Group](https://www.meetup.com/Wellington-PowerShell-User-Group/) | NZ/WLG | Bi-Monthly | Various |
 | [Wellington Data Management and Analytics Meetup](https://www.meetup.com/Wellington-Data-Management-and-Analytics-Meetup/) | NZ/WLG | Bi-Monthly | Various |
-| [Wellington Dynamics & Power Platform User Group](https://www.meetup.com/Wellington-Power-Platform-User-Group) | NZ/WLG | Monthly | Microsoft |
+| [Wellington Dynamics & Power Platform User Group](https://www.meetup.com/Wellington-Power-Platform-User-Group) | NZ/WLG | Monthly | Microsoft House (157 Lambton Quay · Wellington) |
+| [Christchurch Microsoft Power Platform Group](https://www.meetup.com/Christchurch-Microsoft-PowerApps-Flow-and-CDS-Meetup/) | NZ/CHC | Monthly | Various |
