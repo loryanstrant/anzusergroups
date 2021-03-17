@@ -43,6 +43,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Brisbane Dynamics 365 User Group](https://www.meetup.com/bned365ug) | AU/QLD | Monthly | CBD/Online |
 | [Brisbane Power Apps & Power Automate User Group](https://www.meetup.com/Brisbane-PowerApps-Flow-User-Group) | AU/QLD | Monthly | CBD/Online |
 | [Gold Coast Dynamics 365 & Power Platform User Group](https://www.meetup.com/Gold-Coast-Power-Platform-User-Group) | AU/QLD | Monthly | Arundale/Online |
+| [Sunshine Coast Azure User Group](https://www.meetup.com/sunshine-coast-azure-user-group/) | AU/QLD | Monthly | Sunshine Coast/Online |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
 | [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
 | [Adelaide Microsoft IT Pro Community](https://www.meetup.com/Adelaide-Microsoft-ITPro-Community/) | AU/SA | Monthly | Microsoft |
