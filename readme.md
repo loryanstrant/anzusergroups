@@ -65,6 +65,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Perth Modern Excel and Power BI Meetup ](https://www.meetup.com/en-AU/Perth-Modern-Excel-Power-BI-User-Group/) | AU/WA | Monthly | Virtual |
 | [Aotearoa Azure Meetup](https://www.meetup.com/Auckland-Azure-Usergroup/) | NZ/AKL | 3rd Thursday of every month | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Microsoft 365 User Group](https://www.meetup.com/Auckland-Microsoft-365-User-Group/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
+| [Auckland Power Platform User Group](https://powerusers.microsoft.com/t5/Auckland-Power-Platform-User/gh-p/pp_auckland_usergroup) | NZ/AKL | Monthly | Virtual |
 | [Microsoft Modern Workplace User Group](https://www.meetup.com/New-Zealand-UC-User-Group/) | NZ/AKL | Last Thursday of every 2 months @ 3PM | Online and Microsoft Auckland|
 | [MS Copilot User Group of Aotearoa](https://www.meetup.com/ms-copilot-user-group-of-aotearoa/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010)|
 | [Auckland .NET User Group](https://www.meetup.com/AKL-NET/) | NZ/AKL | Intermittent | Various |
