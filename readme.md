@@ -45,8 +45,12 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Gold Coast Dynamics 365 & Power Platform User Group](https://www.meetup.com/Gold-Coast-Power-Platform-User-Group) | AU/QLD | Monthly | Arundale/Online |
 | [Sunshine Coast Azure User Group](https://www.meetup.com/sunshine-coast-azure-user-group/) | AU/QLD | Monthly | Sunshine Coast/Online |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
+| [Adelaide Azure User Group](https://www.meetup.com/adelaide-azure-user-group/) | AU/SA | Monthly | Microsoft |
 | [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
+| [Adelaide Microsoft 365 User Group](https://www.meetup.com/adelaide-microsoft-365-user-group/) | AU/SA | Monthly | Microsoft |
+| [Adelaide Microsoft Copilot User Group](https://www.meetup.com/adelaide-microsoft-copilot-user-group/) | AU/SA | Monthly | Microsoft |
 | [Adelaide Microsoft IT Pro Community](https://www.meetup.com/Adelaide-Microsoft-ITPro-Community/) | AU/SA | Monthly | Microsoft |
+| [Adelaide Power BI & Fabric Group](https://www.meetup.com/adelaide-power-bi-user-group/) | AU/SA | Monthly | Online |
 | [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/) | AU/VIC | Every 2 months | "here and there" |
 | [Melbourne Microsoft 365 Technical Meetup](https://www.meetup.com/en-AU/Melbourne-Microsoft-365-Technical-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
