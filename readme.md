@@ -67,6 +67,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
 | [Perth Microsoft Data and Analytics User Group](https://www.meetup.com/en-AU/Perth-Microsoft-Data-And-Analytics-User-Group/) | AU/WA | Intermittent | Microsoft |
 | [Perth Modern Excel and Power BI Meetup ](https://www.meetup.com/en-AU/Perth-Modern-Excel-Power-BI-User-Group/) | AU/WA | Monthly | Virtual |
+| [Power BI and Data Analytics for Enviro's](https://www.meetup.com/en-au/powerbi4enviros/) | AU/WA | Every 2-3 months | Virtual |
 | [Aotearoa Azure Meetup](https://www.meetup.com/Auckland-Azure-Usergroup/) | NZ/AKL | 3rd Thursday of every month | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Aotearoa NZ GitHub User Group](https://www.meetup.com/aotearoa-nz-github-user-group/) | NZ/AKL | Every 2-3 months | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Microsoft 365 User Group](https://www.meetup.com/Auckland-Microsoft-365-User-Group/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
